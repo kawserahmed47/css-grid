@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(238, 202, 202, 0.852);
+    margin: auto;
+}
+
+.container {
+    text-align: center;
+    color: #fff;
+    padding:20px;
+    margin-right: 20px;
+    margin-left: 20px;    
+}
+
+.division-1{
+    background:green;
+}
+
+.division-2{
+    background:red;
+}
+
+.division-3{
+    background:yellow;
+}
+
+.division-4{
+    background:orange;
+}
+
+.division-5{
+    background:blue;
+}
+
+.division-6{
+    background:black;
+}
